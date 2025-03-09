@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to myBank cards production"
+  message: "Welcome to myBank cards rabbit production"
   contactDetails:
     name: "mr. Artist cards"
     email: "cards@gmail.com"
