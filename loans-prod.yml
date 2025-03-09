@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to myBank production"
+  message: "Welcome to myBank rabbit production"
   contactDetails:
     name: "mr. Artist"
     email: "artist@gmail.com"
