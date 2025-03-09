@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to myBank QA Apis"
   contactDetails:
     name: "sneha-QaLead"
-    email: "sneha@gmail.com"
+    email: "{cipher}a5d1ef3f3a4a8698083f696ede965063c3f097186173ddb0e271557ed5768097"
   onCallSupport:
     - (555) 456-1234
     - (123) 891-980
